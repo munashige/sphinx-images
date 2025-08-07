@@ -1,4 +1,4 @@
-# sphinx-images
+# Better images/screenshots handling for Sphinx
 
 ## About script 
 
