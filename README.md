@@ -8,7 +8,7 @@ This repo provides a simple JS script that loads screenshots/ images within the 
 
 While in preview, clicking anywhere outside the image zone closes the preview.
 
-Clicking on the image zooms it it. Clicking again zooms it out.
+Clicking on the image zooms it in. Clicking again zooms it out.
 
 Clicking and holding enables the inspection mode, where users can view smaller details on the image and scroll the image around.
 
